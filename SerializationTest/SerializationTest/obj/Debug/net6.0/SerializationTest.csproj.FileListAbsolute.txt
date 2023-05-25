@@ -1,0 +1,15 @@
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/bin/Debug/net6.0/SerializationTest
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/bin/Debug/net6.0/SerializationTest.deps.json
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/bin/Debug/net6.0/SerializationTest.runtimeconfig.json
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/bin/Debug/net6.0/SerializationTest.dll
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/bin/Debug/net6.0/SerializationTest.pdb
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/obj/Debug/net6.0/SerializationTest.csproj.AssemblyReference.cache
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/obj/Debug/net6.0/SerializationTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/obj/Debug/net6.0/SerializationTest.AssemblyInfoInputs.cache
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/obj/Debug/net6.0/SerializationTest.AssemblyInfo.cs
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/obj/Debug/net6.0/SerializationTest.csproj.CoreCompileInputs.cache
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/obj/Debug/net6.0/SerializationTest.dll
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/obj/Debug/net6.0/refint/SerializationTest.dll
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/obj/Debug/net6.0/SerializationTest.pdb
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/obj/Debug/net6.0/SerializationTest.genruntimeconfig.cache
+/Users/vladislavpanin/Documents/VPD/Lern/C#/SerializationTest/SerializationTest/obj/Debug/net6.0/ref/SerializationTest.dll
